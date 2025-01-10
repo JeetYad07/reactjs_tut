@@ -1,10 +1,10 @@
-
-
+import Chai from "./Chai";
 
 function App() {
   return (
     <div className="App">
-      <h1>Chai aur React | Jeet</h1>
+      <Chai />
+      
     </div>
   );
 }
